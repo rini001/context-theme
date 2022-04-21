@@ -1,0 +1,30 @@
+.firstDiv{
+    width: fit-content;
+    display: grid;
+    padding: 20px;
+    row-gap: 30px;
+}
+.mainDiv{
+    /* border: 2px solid red; */
+  display: grid;
+  row-gap: 220px;
+  width: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  /* background-color: aliceblue; */
+}
+.mainDiv1{
+    /* border: 2px solid red; */
+  display: grid;
+  row-gap: 220px;
+  width: fit-content;
+  box-shadow: rgba(162, 219, 215, 0.35) 0px 5px 15px;
+  background-color:black;
+}
+.icon:hover{
+background-color: aqua ;
+}
+.user{
+    /* border: 2px solid pink; */
+    width: fit-content;
+    padding: 20px;
+}
